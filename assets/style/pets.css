@@ -81,7 +81,16 @@
 .end{
     font-weight: 700;
 }
-
+.image{
+    width: 150px;
+    margin: 64px;
+}
+.apple{
+    width: 56px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 @media screen and (max-width:468px) {
     .nav-item{
         display: none;
