@@ -42,6 +42,9 @@ display: flex;
 justify-content: center;
 text-align: center;
 }  
+.logo{
+    
+}
 .form{
     display: flex;
     flex-direction: column;
